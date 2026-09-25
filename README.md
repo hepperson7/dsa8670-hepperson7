@@ -70,6 +70,13 @@ By the end of Week 5, you should be able to:
 
 ---
 
+## Week 5 Reflection
+
+Version control is very important in data anlytics projects, especially collaborative efforts. Version tracking allows for a team to easily contribute to a project, rather
+than having to send files back and forth. The reading compared GitHub to Google Docs, which I thought was fitting. Another good thing about version control is the ability to  rollback code. This allows for a team to remove specific edits, without affecting the rest of the project.
+
+---
+
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
